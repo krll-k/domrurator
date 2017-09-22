@@ -1,0 +1,16 @@
+{
+  "name": "domrurator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "codeceptjs": "^1.0.3",
+    "selenium-standalone": "^6.9.0"
+  }
+}
